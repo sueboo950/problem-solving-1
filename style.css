@@ -4,16 +4,16 @@ html {
 }
 
 footer {
-  text-align: center;
+  text-align: left;
   font-size: x-small;
 }
 
 h1 {
-  font-family: Arial, Helvetica, sans-serif; text-align: center;
+  font-family: Arial, Helvetica, sans-serif; text-align: left;
 }
 
 h2 {
-  font-family: Arial, Helvetica, sans-serif; text-align: center;
+  font-family: Arial, Helvetica, sans-serif; text-align: left;
 }
 
 html {
@@ -21,7 +21,7 @@ html {
     }
 
 body {
-  text-align: center; font-family: Arial, Helvetica, sans-serif; color: white
+  text-align: left; font-family: Arial, Helvetica, sans-serif; color: white
 }
 
 img{
