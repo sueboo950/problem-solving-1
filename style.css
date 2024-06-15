@@ -1,1 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
 
+footer {
+  text-align: center;
+  font-size: x-small;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif; text-align: center;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif; text-align: center;
+}
+
+html {
+      background: url(https://images.pexels.com/photos/5412432/pexels-photo-5412432.jpeg?auto=compress&cs=tinysrgb&w=600); background-size: cover;
+    }
+
+body {
+  text-align: center; font-family: Arial, Helvetica, sans-serif; color: white
+}
+
+img{
+  float: inherit;
+}
