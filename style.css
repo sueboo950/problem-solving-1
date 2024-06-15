@@ -17,13 +17,17 @@ h2 {
 }
 
 html {
-      background: url(https://images.pexels.com/photos/5412432/pexels-photo-5412432.jpeg?auto=compress&cs=tinysrgb&w=600); background-size: cover;
+      background-color: cornflowerblue; background-size: cover;
     }
 
 body {
-  text-align: left; font-family: Arial, Helvetica, sans-serif; color: white
+  text-align: left; font-family: Arial, Helvetica, sans-serif; color: black
 }
 
 img{
   float: inherit;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif; text-align: left;
 }
