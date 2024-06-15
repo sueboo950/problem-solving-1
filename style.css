@@ -31,3 +31,8 @@ img{
 h3 {
   font-family: Arial, Helvetica, sans-serif; text-align: left;
 }
+
+div {
+  width:300px;
+  margin:auto;
+}
