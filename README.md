@@ -1,4 +1,4 @@
 # problem-solving-1
 Socks in the drawer problem explained.
 
-author: trincellshelvin@gmail.com
+author: sophie950950@yahoo.com
